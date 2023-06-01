@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417875943669",
+    "firebase_url": "https://go-rent-86626-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "go-rent-86626",
+    "storage_bucket": "go-rent-86626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417875943669:android:199e47d174299305cee5bc",
+        "android_client_info": {
+          "package_name": "com.example.gorent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417875943669-mdpbbfckdu1mi498slnct0koqqpkm297.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZbkVpgyj34ZSEtKrApo7YYT7VhyirQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417875943669-mdpbbfckdu1mi498slnct0koqqpkm297.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Dashboard"
+        />
+    <item
+        android:id="@+id/menu_list_kendaraan"
+        android:icon="@drawable/ic_listkendaraan"
+        android:title="List Kendaraan" />
+    <item
+        android:id="@+id/menu_map"
+        android:icon="@drawable/ic_map"
+        android:title="Riwayat" />
+</menu>
